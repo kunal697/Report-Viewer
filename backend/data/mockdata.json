@@ -1,0 +1,269 @@
+[
+  {
+    "id": "uuid-1",
+    "title": "Q4 Market Intelligence: Autonomous Vehicle Adoption",
+    "reportType": "market_analysis",
+    "industry": "automotive",
+    "confidenceScore": 92,
+    "status": "verified",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-15T14:45:00Z",
+    "author": "AI Research Team",
+    "tags": ["autonomous", "vehicles", "market", "adoption", "forecast"],
+    "summary": "Comprehensive analysis of autonomous vehicle market penetration across key demographics and geographic regions. Our models predict 23% adoption rate by 2027.",
+    "keyInsights": [
+      "Consumer trust in AV technology increased 34% in Q4",
+      "Regulatory clarity in 5 major markets accelerating deployment",
+      "Cost parity with traditional vehicles expected by 2026"
+    ],
+    "sources": [
+      {
+        "id": "uuid-2",
+        "type": "survey",
+        "title": "Consumer Sentiment Survey - 50K Respondents",
+        "reliability": 94,
+        "methodology": "Stratified random sampling across 12 countries",
+        "dataPoints": 156789,
+        "lastUpdated": "2024-01-10T09:00:00Z"
+      },
+      {
+        "id": "uuid-3",
+        "type": "regulatory",
+        "title": "Federal Transportation Policy Database",
+        "reliability": 98,
+        "methodology": "Real-time policy tracking and analysis",
+        "dataPoints": 23456,
+        "lastUpdated": "2024-01-14T16:20:00Z"
+      },
+      {
+        "id": "uuid-4",
+        "type": "financial",
+        "title": "Manufacturing Cost Analysis",
+        "reliability": 87,
+        "methodology": "Supply chain cost modeling and forecasting",
+        "dataPoints": 45678,
+        "lastUpdated": "2024-01-12T11:15:00Z"
+      }
+    ],
+    "riskFactors": [
+      "Potential changes in safety regulations",
+      "Consumer adoption slower than projected",
+      "Technology breakthrough by competitors"
+    ]
+  },
+  {
+    "id": "uuid-5",
+    "title": "Cybersecurity Threat Landscape: Financial Services 2024",
+    "reportType": "threat_analysis",
+    "industry": "financial",
+    "confidenceScore": 89,
+    "status": "under_review",
+    "createdAt": "2024-01-12T08:15:00Z",
+    "updatedAt": "2024-01-14T12:30:00Z",
+    "author": "Security Intelligence Unit",
+    "tags": ["cybersecurity", "financial", "threats", "risk", "banking"],
+    "summary": "Real-time threat intelligence aggregation reveals 67% increase in sophisticated attacks targeting financial institutions. API vulnerabilities remain primary attack vector.",
+    "keyInsights": [
+      "API-targeted attacks increased 67% YoY",
+      "Social engineering tactics evolving rapidly",
+      "Zero-day exploits in financial software up 45%"
+    ],
+    "sources": [
+      {
+        "id": "uuid-6",
+        "type": "threat_intel",
+        "title": "Global Threat Intelligence Network",
+        "reliability": 91,
+        "methodology": "Multi-source threat aggregation and correlation",
+        "dataPoints": 2345678,
+        "lastUpdated": "2024-01-14T03:45:00Z"
+      },
+      {
+        "id": "uuid-7",
+        "type": "incident_reports",
+        "title": "Financial Sector Incident Database",
+        "reliability": 93,
+        "methodology": "Verified incident reporting from 200+ institutions",
+        "dataPoints": 78901,
+        "lastUpdated": "2024-01-13T22:10:00Z"
+      }
+    ],
+    "riskFactors": [
+      "Emerging attack vectors not yet identified",
+      "Delayed patching cycles in legacy systems",
+      "Insider threat potential underestimated"
+    ]
+  },
+  {
+    "id": "uuid-8",
+    "title": "Healthcare AI Investment Flow Analysis",
+    "reportType": "investment_analysis",
+    "industry": "healthcare",
+    "confidenceScore": 78,
+    "status": "draft",
+    "createdAt": "2024-01-08T14:20:00Z",
+    "updatedAt": "2024-01-11T16:45:00Z",
+    "author": "Investment Research Team",
+    "tags": ["healthcare", "AI", "investment", "funding", "startups"],
+    "summary": "Analysis of $2.3B in healthcare AI investments across 234 companies. Diagnostic AI and drug discovery dominate funding landscape.",
+    "keyInsights": [
+      "Diagnostic AI captured 42% of total funding",
+      "Drug discovery platforms showing 156% growth",
+      "Regulatory approval timelines improving"
+    ],
+    "sources": [
+      {
+        "id": "uuid-9",
+        "type": "funding_data",
+        "title": "Venture Capital Database",
+        "reliability": 85,
+        "methodology": "Aggregated funding rounds from verified sources",
+        "dataPoints": 45678,
+        "lastUpdated": "2024-01-10T20:30:00Z"
+      },
+      {
+        "id": "uuid-10",
+        "type": "regulatory",
+        "title": "FDA Approval Pipeline Tracker",
+        "reliability": 92,
+        "methodology": "Real-time FDA submission and approval tracking",
+        "dataPoints": 12345,
+        "lastUpdated": "2024-01-11T14:15:00Z"
+      }
+    ],
+    "riskFactors": [
+      "Regulatory environment uncertainty",
+      "Market saturation in certain segments",
+      "Technical validation challenges"
+    ]
+  },
+  {
+    "id": "uuid-11",
+    "title": "Supply Chain Disruption Forecast: Q1 2024",
+    "reportType": "risk_assessment",
+    "industry": "manufacturing",
+    "confidenceScore": 95,
+    "status": "verified",
+    "createdAt": "2024-01-05T09:30:00Z",
+    "updatedAt": "2024-01-13T11:20:00Z",
+    "author": "Supply Chain Intelligence",
+    "tags": ["supply_chain", "disruption", "manufacturing", "logistics", "forecast"],
+    "summary": "Predictive model identifies 73% probability of major supply chain disruptions in Q1 2024. Semiconductor shortages and port congestion primary drivers.",
+    "keyInsights": [
+      "Semiconductor shortage to persist through Q2",
+      "Port congestion affecting 23% of global trade",
+      "Alternative supply routes showing 34% cost increase"
+    ],
+    "sources": [
+      {
+        "id": "uuid-12",
+        "type": "logistics_data",
+        "title": "Global Shipping Intelligence Network",
+        "reliability": 96,
+        "methodology": "Real-time port and shipping data aggregation",
+        "dataPoints": 567890,
+        "lastUpdated": "2024-01-13T08:45:00Z"
+      },
+      {
+        "id": "uuid-13",
+        "type": "supplier_intel",
+        "title": "Supplier Risk Assessment Database",
+        "reliability": 89,
+        "methodology": "Multi-tier supplier monitoring and assessment",
+        "dataPoints": 234567,
+        "lastUpdated": "2024-01-12T15:30:00Z"
+      }
+    ],
+    "riskFactors": [
+      "Geopolitical tensions affecting trade routes",
+      "Weather-related shipping delays",
+      "Supplier capacity constraints"
+    ]
+  },
+  {
+    "id": "uuid-14",
+    "title": "Energy Transition Investment Opportunities",
+    "reportType": "market_analysis",
+    "industry": "energy",
+    "confidenceScore": 84,
+    "status": "verified",
+    "createdAt": "2024-01-03T12:00:00Z",
+    "updatedAt": "2024-01-10T09:15:00Z",
+    "author": "Energy Markets Team",
+    "tags": ["energy", "transition", "renewable", "investment", "policy"],
+    "summary": "Comprehensive analysis of $450B energy transition investment opportunities. Solar and wind infrastructure leading growth projections.",
+    "keyInsights": [
+      "Solar capacity to triple by 2026",
+      "Grid infrastructure investments accelerating",
+      "Battery storage market expanding 89% annually"
+    ],
+    "sources": [
+      {
+        "id": "uuid-15",
+        "type": "energy_data",
+        "title": "Global Energy Production Database",
+        "reliability": 93,
+        "methodology": "Real-time energy production and consumption tracking",
+        "dataPoints": 789012,
+        "lastUpdated": "2024-01-09T18:00:00Z"
+      },
+      {
+        "id": "uuid-16",
+        "type": "policy_analysis",
+        "title": "Energy Policy Tracker",
+        "reliability": 87,
+        "methodology": "Government policy analysis and impact modeling",
+        "dataPoints": 34567,
+        "lastUpdated": "2024-01-08T13:45:00Z"
+      }
+    ],
+    "riskFactors": [
+      "Policy changes affecting incentives",
+      "Technology cost fluctuations",
+      "Grid integration challenges"
+    ]
+  },
+  {
+    "id": "uuid-17",
+    "title": "Retail Consumer Behavior Shift Analysis",
+    "reportType": "behavioral_analysis",
+    "industry": "retail",
+    "confidenceScore": 91,
+    "status": "verified",
+    "createdAt": "2024-01-01T15:45:00Z",
+    "updatedAt": "2024-01-08T10:30:00Z",
+    "author": "Consumer Insights Team",
+    "tags": ["retail", "consumer", "behavior", "e-commerce", "trends"],
+    "summary": "Post-pandemic consumer behavior analysis reveals permanent shifts in shopping patterns. Omnichannel adoption reached 78% among millennials.",
+    "keyInsights": [
+      "Omnichannel adoption up 78% among millennials",
+      "Sustainable product preference growing 23% YoY",
+      "In-store experience expectations evolved significantly"
+    ],
+    "sources": [
+      {
+        "id": "uuid-18",
+        "type": "consumer_data",
+        "title": "Consumer Behavior Tracking Platform",
+        "reliability": 90,
+        "methodology": "Multi-channel consumer behavior analysis",
+        "dataPoints": 1234567,
+        "lastUpdated": "2024-01-07T21:15:00Z"
+      },
+      {
+        "id": "uuid-19",
+        "type": "sales_data",
+        "title": "Retail Sales Intelligence",
+        "reliability": 94,
+        "methodology": "Aggregated retail sales data from 500+ retailers",
+        "dataPoints": 456789,
+        "lastUpdated": "2024-01-06T12:20:00Z"
+      }
+    ],
+    "riskFactors": [
+      "Economic uncertainty affecting spending",
+      "Generational preference shifts",
+      "Technology adoption barriers"
+    ]
+  }
+]
